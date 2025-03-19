@@ -39,41 +39,41 @@ Cada isla tendrá una estética diferente acorde a los enemigos y elementos de c
 
 - **Isla Calavera**
 
-ESTÉTICA  -
+  ESTÉTICA  -
 Se caracteriza por tener una calavera gigante de piedra en el medio de la isla rodeada de playa y palmeras, con un ambiente tropical en flora y fauna; predominancia de colores vivos verdes, rojos y amarillos.
 
-ENEMIGOS  -
+  ENEMIGOS  -
 Esqueletos: Espadachines, Arqueros y Bombas.
 Tribu: Nigromantes y Tiradores (venenos).
 Jefe final: Esqueleto tanque nigromante con veneno.
 
 - **Isla Barco Fantasma**
 
-ESTÉTICA  -
+  ESTÉTICA  -
 Tiene un barco gigante de madera encallado y deteriorado en el centro de ella. La isla es de piedra, como si fuese una acumulación de rocas en medio del mar, además tiene un ambiente sombrío y neblinoso; con predominancia de azules, morados y grises.
 
-ENEMIGOS  -
+  ENEMIGOS  -
 Ahogados: Puños, Tiradores (lanzador de peces).
 Piratas fantasma: Curanderos, Espadachines.
 Jefe final: Pirata fantasma tanque espadachín con hemorragia.
 
 - **Isla Pantano**
 
-ESTÉTICA  -
+  ESTÉTICA  -
 Esta isla tiene un gran árbol en el medio y está repleta de manglares por lo que predominan las zonas de agua y barro. Al igual que la “Isla Barco Fantasma” hay una nube de niebla que solo te deja ver las lianas que caen de los árboles, los cuales hacen una cúpula como techo.
 Los colores predominantes son verdes oscuros y marrones.
 
-ENEMIGOS  -
+  ENEMIGOS  -
 Brujas del pantano: Hechiceras, Nigromantes, Curanderas (totems).
 Monstruos de lodo: Tanques, Cuerpo a cuerpo (poca vida), Tiradores (veneno).
 Jefe final: Monstruo de lodo tanque que se divide.
 
 - **Isla de las Sirenas**
 
-ESTÉTICA  -
+  ESTÉTICA  -
 Encontramos una gran piedra lisa torcida hacia un lado, rodeada de un arrecife de coral con pequeñas rocas ovaladas y redondas. Esta isla es más clara que las demás con aguas cristalinas y brillantes donde el sol hace reflejos ondulados en la piedra. Predominan colores verdes, rosas y turquesas.
 
-ENEMIGOS  -
+  ENEMIGOS  -
 Sirenas: Hechiceras, Curanderas y Cuerpo a cuerpo (mordisco).
 Esclavos de sirenas: Cuerpo a cuerpo (poca vida).
 Tritones: Cuerpo a cuerpo (tridente).
@@ -81,30 +81,37 @@ Jefe final: Diosa de las sirenas (se cura a sí misma) con tres esclavos.
 
 ## 5. Personajes
 
-- **Personajes Principales:**
+- **PERSONAJES PRINCIPALES:**
 
-Capitana: **Morgan Blackwater**
+  Capitana: **Morgan Blackwater**
 Padece de amnesia e irá recordando su pasado a medida que avanza la historia. Es una espadachín fuerte y grande, ataca cuerpo a cuerpo y tiene mucha vida. Tiene un pañuelo rojo en la cabeza y viste un vestido pirata.
 
-Segundo de abordo: **Edric Vaughn**
+  Segundo de abordo: **Edric Vaughn**
 Pistolero que tiene ataques de escopeta y de distancia. Aspecto sospechoso con sombrero y capa.
 
-Mano izquierda: **Selene Nightwind**
+  Mano izquierda: **Selene Nightwind**
 Maga de los elementos (ataca a distancia), que puede defender a los aliados con escudos. Aspecto débil y ligero, tiene un bastón como arma, y lleva una túnica larga.
 
-Amado: **Lucian Crow**
+  Amado: **Lucian Crow**
 Francotirador de aspecto delgado, inteligente y amable. Viste con ropa elegante.
 
-- **Tripulantes:**
+- **TRIPULANTES:**
 
-Bruja del pantano (maga nigromante)
-Monstruo de lodo (cuerpo a cuerpo)
-Sirena (curación y escudos)
-Tritón (tridente, cuerpo a cuerpo)
-Ahogado pez espada (cuerpo a cuerpo, con espada)
-Ahogado (bajo, gordo y morado) (el venenos, tira peces que almacena en la barriga(los vomita))
-Esqueleto mago (con bastón)
-Esqueleto bombas (el bombas)
+  Bruja del pantano (maga nigromante)
+
+  Monstruo de lodo (cuerpo a cuerpo)
+
+  Sirena (curación y escudos)
+
+  Tritón (tridente, cuerpo a cuerpo)
+
+  Ahogado pez espada (cuerpo a cuerpo, con espada)
+
+  Ahogado (bajo, gordo y morado) (el venenos, tira peces que almacena en la barriga(los vomita))
+
+  Esqueleto mago (con bastón)
+
+  Esqueleto bombas (el bombas)
 
 ## 6. Interfaz
 
@@ -120,26 +127,38 @@ Para comprar recursos o mejorar el barco tienes un menú en la esquina inferior 
 Todo el juego funciona con botones, no se utiliza ninguna tecla. 
 Desde el combate por turnos donde tendremos los ataques de cada tripulante en la parte inferior, así como la vida y algunas estadísticas más; y tendremos que hacer click en ellos para ejecutarlos y después seleccionar el enemigo al que atacar. También en el barco a la hora de la gestión usaremos clicks para comprar objetos o curar algún herido y demás.
 
-Algunas mecánicas que tiene Tides of Memory son:
-Combate por turnos
-Gestión de recursos para evitar quedarse sin provisiones o perder tripulantes.
-Uso de objetos consumibles como pociones y vendas.
-Sistema de estados alterados.
-Eventos aleatorios entre combates dentro de las islas y fuera.
-Recolección de objetos y oro tras cada batalla.
-Reclutamiento de nuevos tripulantes.
-Administración del barco.
-Selección de tripulantes antes de cada expedición.
-Fragmentos de memoria aparecen en algunas islas.
+**Algunas mecánicas que tiene Tides of Memory son:**
+
+  Combate por turnos
+
+  Gestión de recursos para evitar quedarse sin provisiones o perder tripulantes.
+
+  Uso de objetos consumibles como pociones y vendas.
+
+  Sistema de estados alterados.
+
+  Eventos aleatorios entre combates dentro de las islas y fuera.
+
+  Recolección de objetos y oro tras cada batalla.
+
+  Reclutamiento de nuevos tripulantes.
+
+  Administración del barco.
+
+  Selección de tripulantes antes de cada expedición.
+
+  Fragmentos de memoria aparecen en algunas islas.
 
 - ### Dinámicas
 
-Entre las dinámicas que puede tener el jugador en Tides of Memory encontramos:
-
 Rutas Ramificadas: Puede elegir entre varias islas.
+
 Eventos de exploración: Al recorrer una isla, puede encontrar objetos, oro o enemigos ocultos que afectan la expedición.
+
 Descubrimiento de la historia: Algunos recuerdos de Lucian aparecen como visiones.
+
 Moral de la tripulación: Si no cuida la moral algunos tripulantes pueden desertar o pelearse entre ellos.
+
 Estados alterados estratégicos: Algunos enemigos serán vulnerables a ciertos estados.
 
 - ### Flujo de juego
@@ -148,29 +167,29 @@ Empiezas conociendo a tu tripulación y una introducción a la historia.
 
 Primera isla - Tutorial (vas con tu única tripulación), ganas 1 tripulante, oro y algún objeto.
 
-Eventos aleatorios entre combates (1):
-Parada para descansar (provisiones -3 (nº de tripulantes))
-Ataque sorpresa
-Pierdes parte de las provisiones que llevas (-10%)
-Un tripulante huye al barco
-Encuentras oro
-Encuentras provisiones
-Encuentras a los enemigos de espalda (puedes escoger hacer una emboscada) (empiezas tú el turno)
+**Eventos aleatorios entre combates (1):**
+  - Parada para descansar (provisiones -3 (nº de tripulantes))
+  - Ataque sorpresa
+  - Pierdes parte de las provisiones que llevas (-10%)
+  - Un tripulante huye al barco
+  - Encuentras oro
+  - Encuentras provisiones
+  - Encuentras a los enemigos de espalda (puedes escoger hacer una emboscada) (empiezas tú el turno)
 
 Acabas la isla, vuelves al barco (gestión en el barco, de ánimos y dinero) y seleccionas la siguiente isla en el mapa
 
 Viaje en el barco, pasan de 1 a 2 eventos aleatorios.
 
-Eventos aleatorios entre islas:
-Dos tripulantes se pelean y no puedes usar a uno en la siguiente isla.
-Te asalta un kraken o megalodón y tienes que pelear.
-Arrecife de coral daña el barco y lo tienes que reparar ( - dinero)
-Los tripulantes del barco se enfermaron y tienes que usar los tripulantes de la isla anterior.
-La tripulación se emborracha y gasta el 20% de las provisiones del barco.
-Un tripulante te habla sobre la siguiente isla (te da info de los enemigos y cómo hacerles frente)
-Encuentras un puesto comerciante (compras provisiones rebajadas)
-Encuentras un naufragio con provisiones
-Encuentras un náufrago para tu tripulación
+**Eventos aleatorios entre islas:**
+  - Dos tripulantes se pelean y no puedes usar a uno en la siguiente isla.
+  - Te asalta un kraken o megalodón y tienes que pelear.
+  - Arrecife de coral daña el barco y lo tienes que reparar ( - dinero)
+  - Los tripulantes del barco se enfermaron y tienes que usar los tripulantes de la isla anterior.
+  - La tripulación se emborracha y gasta el 20% de las provisiones del barco.
+  - Un tripulante te habla sobre la siguiente isla (te da info de los enemigos y cómo hacerles frente)
+  - Encuentras un puesto comerciante (compras provisiones rebajadas)
+  - Encuentras un naufragio con provisiones
+  - Encuentras un náufrago para tu tripulación
 
 Llegas a la siguiente isla y escoges (si puedes) los tripulantes (max. 4) para desembarcar.
 
