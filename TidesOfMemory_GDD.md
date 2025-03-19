@@ -83,35 +83,35 @@ Jefe final: Diosa de las sirenas (se cura a sí misma) con tres esclavos.
 
 - **PERSONAJES PRINCIPALES:**
 
-  Capitana: **Morgan Blackwater**
+  - Capitana: **Morgan Blackwater**
 Padece de amnesia e irá recordando su pasado a medida que avanza la historia. Es una espadachín fuerte y grande, ataca cuerpo a cuerpo y tiene mucha vida. Tiene un pañuelo rojo en la cabeza y viste un vestido pirata.
 
-  Segundo de abordo: **Edric Vaughn**
+  - Segundo de abordo: **Edric Vaughn**
 Pistolero que tiene ataques de escopeta y de distancia. Aspecto sospechoso con sombrero y capa.
 
-  Mano izquierda: **Selene Nightwind**
+  - Mano izquierda: **Selene Nightwind**
 Maga de los elementos (ataca a distancia), que puede defender a los aliados con escudos. Aspecto débil y ligero, tiene un bastón como arma, y lleva una túnica larga.
 
-  Amado: **Lucian Crow**
+  - Amado: **Lucian Crow**
 Francotirador de aspecto delgado, inteligente y amable. Viste con ropa elegante.
 
 - **TRIPULANTES:**
 
-  Bruja del pantano (maga nigromante)
+  - Bruja del pantano (maga nigromante)
 
-  Monstruo de lodo (cuerpo a cuerpo)
+  - Monstruo de lodo (cuerpo a cuerpo)
 
-  Sirena (curación y escudos)
+  - Sirena (curación y escudos)
 
-  Tritón (tridente, cuerpo a cuerpo)
+  - Tritón (tridente, cuerpo a cuerpo)
 
-  Ahogado pez espada (cuerpo a cuerpo, con espada)
+  - Ahogado pez espada (cuerpo a cuerpo, con espada)
 
-  Ahogado (bajo, gordo y morado) (el venenos, tira peces que almacena en la barriga(los vomita))
+  - Ahogado (bajo, gordo y morado) (el venenos, tira peces que almacena en la barriga(los vomita))
 
-  Esqueleto mago (con bastón)
+  - Esqueleto mago (con bastón)
 
-  Esqueleto bombas (el bombas)
+  - Esqueleto bombas (el bombas)
 
 ## 6. Interfaz
 
@@ -151,17 +151,17 @@ Desde el combate por turnos donde tendremos los ataques de cada tripulante en la
 
 - ### Dinámicas
 
-Rutas Ramificadas: Puede elegir entre varias islas.
+  - Rutas Ramificadas: Puede elegir entre varias islas.
 
-Eventos de exploración: Al recorrer una isla, puede encontrar objetos, oro o enemigos ocultos que afectan la expedición.
+  - Eventos de exploración: Al recorrer una isla, puede encontrar objetos, oro o enemigos ocultos que afectan la expedición.
 
-Descubrimiento de la historia: Algunos recuerdos de Lucian aparecen como visiones.
+  - Descubrimiento de la historia: Algunos recuerdos de Lucian aparecen como visiones.
 
-Moral de la tripulación: Si no cuida la moral algunos tripulantes pueden desertar o pelearse entre ellos.
+  - Moral de la tripulación: Si no cuida la moral algunos tripulantes pueden desertar o pelearse entre ellos.
 
-Estados alterados estratégicos: Algunos enemigos serán vulnerables a ciertos estados.
+  - Estados alterados estratégicos: Algunos enemigos serán vulnerables a ciertos estados.
 
-- ### Flujo de juego
+  - ### Flujo de juego
 
 Empiezas conociendo a tu tripulación y una introducción a la historia.
 
