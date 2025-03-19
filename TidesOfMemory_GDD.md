@@ -28,8 +28,10 @@ Al final de cada pelea irás ganando objetos que puedes equipar a tus tripulante
 ## 3. Historia
 
 Morgan Blackwater, una temida capitana pirata, encuentra una vieja nota escrita por su supuesto amado del cual no recordaba su existencia, Lucian Crow, mencionando un tesoro mítico que estaban a punto de descubrir. Aunque su memoria es borrosa, siente un vacío inexplicable y una necesidad ardiente de reencontrarse con él. Siguiendo las pistas de su última travesía, zarpa nuevamente, y a medida que avanza, fragmentos de su pasado resurgen, revelando la verdad oculta tras su pérdida.
+
 Años atrás, Morgan y su tripulación partieron en busca de un legendario tesoro del que se decía que estaba maldito. Junto a ella viajaban Lucian Crow, su amado y hábil francotirador de mente aguda y porte elegante, y Edric Vaughn, su fiel segundo de abordo, un gran pistolero y mejor amigo que siempre había estado a su lado desde la infancia. Sin embargo, Edric ocultaba un oscuro secreto: su amor obsesivo por Morgan y su profundo resentimiento hacia Lucian.
 Cuando finalmente hallaron el tesoro, Edric vio su oportunidad. Aprovechando un momento en que Morgan y Lucian estaban solos, los engañó y los hizo caer en la maldición del tesoro, condenándolos a olvidar su amor y su pasado juntos. Con ambos inconscientes, abandonó a Lucian en la isla y regresó con Morgan, mintiéndole a la tripulación alegando que Lucian los había atacado para quedarse con el tesoro.
+
 Al regresar a casa, la tripulación se disolvió, pues aquel era su último gran viaje. Dos años después, Morgan encuentra la nota de Lucian y, sin entender por qué, siente la necesidad de buscarlo. Para ello, reúne nuevamente a su tripulación, incluyendo a Selene Nightwind, su mano izquierda fiel compañera de travesías, y a Edric, sin saber aún la verdad que ocultan las aguas por las que navega.
 
 ## 4. Ambientación
