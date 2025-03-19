@@ -195,13 +195,14 @@ Llegas a la siguiente isla y escoges (si puedes) los tripulantes (max. 4) para d
 
 ## 8. Progresión
 
-### Mejoras al barco
+- ### Mejoras al barco
 Las mejoras que puede tener el barco son de dos tipos: mejoras de espacio y mejoras de resistencia.
 Las mejoras de espacio nos permiten aumentar la capacidad para almacenar oro, provisiones y tripulantes.
 Las mejoras de resistencia mejoran el barco para poder llegar a islas más complicadas.
 
 - ### Objetos consumibles
 Los objetos consumibles son recursos clave que los jugadores pueden usar dentro y fuera del combate para curar, mejorar atributos o eliminar efectos negativos. Se pueden obtener tras los combates, comerciando en el barco o encontrándolos en eventos aleatorios.  
+
 **Objetos curativos:** 
 Vendas (detiene hemorragias), Poción de curación pequeña, Poción de curación abundante.
 **Objetos de mejora de atributos y eliminación de efectos:**
@@ -209,79 +210,111 @@ Poción protectora (2 turnos), Talismán de Yemayá (revives un tripulante, 1 ve
 
 - ### Objetos equipables
 Los objetos equipables sirven para mejorar a los personajes, personalizar sus estilos de combate y adaptarlos a diferentes estrategias. Estos objetos incluyen armas, armaduras y accesorios que otorgan mejoras en estadísticas, habilidades especiales o resistencias. 
+
 **Objetos equipables:**
-Tela de araña (disminuye la evasión del enemigo), Mira de precisión (aumenta la precisión del portador), Armadura ligera (+10 de armadura), Armadura pesada (+30 de armadura), Botas de marine (Aumenta la evasión), Botas malditas (Aumenta el daño contra fantasmas y esqueletos), Arco encantado (+20 de daño), Arco de cristal (Aumenta el daño contra criaturas marinas), Ballesta demoníaca (Aumenta el daño contra hechiceros).
+Fango pegajoso (disminuye la evasión del enemigo), Mira de precisión (aumenta la precisión del portador), Armadura ligera (+10 de armadura), Armadura pesada (+30 de armadura), Botas de marine (Aumenta la evasión), Botas malditas (Aumenta el daño contra fantasmas y esqueletos), Arco encantado (+20 de daño), Arco de cristal (Aumenta el daño contra criaturas marinas), Ballesta demoníaca (Aumenta el daño contra hechiceros).
 
 ## 9. Producción y requisitos
 
 - ### Arte
 El estilo visual de Tides of Memory es oscuro y con toques de cómic, lo cual se reflejará en los siguientes aspectos:
+
 **Diseño de personajes:**
+
 Los personajes principales tendrán un estilo distintivo, con énfasis en la expresividad y los detalles.Por su parte los tripulantes secundarios, siguiendo el ejemplo de “Darkest Dungeon” solo tendrán un sprite por cada enemigo diferente, pero variarán sus estadísticas.
 Para los personajes se usará un contorno marcado y colores saturados que contrastan con la oscuridad del entorno. Las animaciones para los ataques y habilidades de los personajes también deben ser dinámicas y detalladas.
+
 **Entornos:**
+
 Cada isla tendrá una estética única basada en su temática: la Isla Barco Fantasma tendrá un ambiente desolado y fantasmal, la Isla Pantano será misteriosa y lúgubre, mientras que la Isla de las Sirenas tendrá una atmósfera más etérea y mística.
+
 **Barco:**
+
 El barco tendrá un diseño robusto y envejecido, representando la naturaleza de los piratas. Los elementos de gestión del barco, como las mejoras o los objetos para la tripulación, deben tener una interfaz sencilla pero clara.
+
 **UI/UX:**
+
 La interfaz debe ser visualmente rica, con iconos relacionados con los piratas, como mapas, brújulas, cofres, etc. Los menús para gestionar recursos y tripulantes deben ser intuitivos y fáciles de navegar.
 
 - ### Música
 La banda sonora debe reforzar la atmósfera de aventura y misterio, destacando el tono oscuro y épico del juego. Deberá contar con:
+
 **Tema principal:** Una pieza orquestal épica y pegadiza que no moleste de fondo al jugar, con toques de música folklórica o marítima para reflejar el ambiente pirata, esta sonará en el barco y en los menú, por su lado en el viaje entre islas sonará el mismo tema pero  ligeramente retocado, más rápido y animado, para mejorar el viaje.
+
 **Composición por islas:** Cada isla debe tener su propio tema musical que se alinee con su estética: desde lo sombrío y tenso de la Isla Pantano hasta lo etéreo y misterioso de la Isla de las Sirenas.
+
 **Efectos de sonido:** Para las batallas, se necesitarían efectos de sonido para los ataques, las habilidades especiales o los estados alterados. 
 
 - ### Programación
-Motor de juego: Unity 
+
+**Motor de juego:** Unity 
 
 **Sistemas principales:**
-**Sistema de combate por turnos:**
-Implementar el control de personajes, ataques, habilidades y efectos de estados (envenenamiento, hemorragia, etc.).
-**Gestión del barco y recursos:**
-Integrar una interfaz donde el jugador pueda gestionar los recursos del barco (provisiones, salud de los tripulantes, etc.) y realizar mejoras.
-**Eventos aleatorios:**
-Programar eventos de exploración y viajes entre islas, incluyendo encuentros aleatorios con enemigos, cambios en la moral de la tripulación, etc.
-**IA de los enemigos:** 
-Desarrollar comportamientos para cada tipo de enemigo, adaptándolos a sus características y roles dentro del combate.
-**Sistema de progresión de personajes:** 
-Implementar un sistema donde los personajes se puedan equipar objetos y modifiquen sus estadísticas, y se pueden reclutar nuevos miembros para la tripulación.
+
+  **Sistema de combate por turnos:**
+  Implementar el control de personajes, ataques, habilidades y efectos de estados (envenenamiento, hemorragia, etc.).
+
+  **Gestión del barco y recursos:**
+  Integrar una interfaz donde el jugador pueda gestionar los recursos del barco (provisiones, salud de los tripulantes, etc.) y realizar mejoras.
+
+  **Eventos aleatorios:**
+  Programar eventos de exploración y viajes entre islas, incluyendo encuentros aleatorios con enemigos, cambios en la moral de la tripulación, etc.
+
+  **IA de los enemigos:** 
+  Desarrollar comportamientos para cada tipo de enemigo, adaptándolos a sus características y roles dentro del combate.
+
+  **Sistema de progresión de personajes:** 
+  Implementar un sistema donde los personajes se puedan equipar objetos y modifiquen sus estadísticas, y se pueden reclutar nuevos miembros para la tripulación.
 
 - ### Tiempos
 
 **Fase de Preproducción** (2-3 meses):
+
 Definición del GDD (documento de diseño de juego).
 Conceptualización de personajes, escenarios y música.
 Creación de prototipos iniciales para el sistema de combate y la interfaz.
+
 **Fase de Producción** (9-12 meses):
+
 Programación de sistemas principales (combate, gestión, IA).
 Diseño y modelado de personajes, islas y objetos.
 Composición de la banda sonora y efectos de sonido.
 Implementación de la interfaz de usuario y menús.
 Pruebas internas y ajustes de balance de juego.
+
 **Fase de Postproducción** (3-4 meses):
+
 Testeo alfa y beta con jugadores externos.
 Ajustes finales en jugabilidad, música y gráficos.
 Corrección de errores y optimización para diferentes plataformas.
 Marketing y promoción antes del lanzamiento.
 
 - ### Presupuesto
+
 **Desarrollo:** 110.000€
-Programadores: 40.000€
-Diseñadores gráficos y animadores: 30.000€
-Músicos y diseñadores de sonido: 20.000€
-Productores y gerentes de proyecto: 10.000€
-Testers y QA: 10.000€
+
+- Programadores: 40.000€
+- Diseñadores gráficos y animadores: 30.000€
+- Músicos y diseñadores de sonido: 20.000€
+- Productores y gerentes de proyecto: 10.000€
+- Testers y QA: 10.000€
+
 **Marketing:** 20.000€
-Publicidad en redes sociales, influencers, trailers.
+
+- Publicidad en redes sociales, influencers, trailers.
+
 **TOTAL ESTIMADO: 130.000€**
 
 - ### Plataformas de lanzamiento
+
 **PC (Steam):** Plataforma principal, dada su accesibilidad y alcance.
+
 **Consolas (Switch):** Considerando que el juego puede atraer a jugadores de consolas.
 
 - ### Público objetivo
+
 **Edades:** 16 - 40 años.
+
 **Intereses:** Jugadores que disfrutan de RPGs, aventuras, temática pirata, y juegos con narrativa profunda. Aficionados de títulos como “Darkest Dungeon” o “For the King”.
 
 - ### Precio de salida: 19,99€
